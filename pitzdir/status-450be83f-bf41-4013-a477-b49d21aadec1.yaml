@@ -1,0 +1,10 @@
+attached_files: []
+created_time: &id001 2011-03-10 10:13:46.719091
+description: ''
+modified_time: *id001
+pscore: 10
+title: abandoned
+type: status
+uuid: !!python/object:uuid.UUID
+  int: 91778557544195883568414186386513125057
+yaml_file_saved: 2011-03-10 10:13:47.749664

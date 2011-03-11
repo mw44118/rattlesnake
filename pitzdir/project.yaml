@@ -1,0 +1,6 @@
+classname: Project
+module: pitz.project
+order_method_name: by_milestone_status_pscore_created_time
+title: rattlesnake
+uuid: !!python/object:uuid.UUID
+  int: 215651389108241215290940726737642932168

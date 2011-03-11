@@ -1,0 +1,7 @@
+.*.swp
+pitzdir/me.yaml
+pitzdir/project.pickle
+*.pyc
+pitzdir/pitz.pid
+rattlesnake.egg-info
+dist
